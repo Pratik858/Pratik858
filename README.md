@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - My current project is [Manipulation of The Robotic Arm ( Manipulator ) ](https://github.com/IvLabs/manipulation)
 
 
-[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik858)](https://github.com/Pratik858/github-readme-stats)
+[![Pratik Raipure GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik858)](https://github.com/Pratik858/github-readme-stats)
