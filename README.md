@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - I am also a part of **IvLabs** (Robotics Club of VNIT )
 - Currently Working on the Controls of Robotics but also interested in IOT and Planning . 
 - My current project is [Manipulation of The Robotic Arm ( Manipulator ) ](https://github.com/IvLabs/manipulation)
+
+
+[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik858)](https://github.com/Pratik858/github-readme-stats)
